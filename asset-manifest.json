@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/lastVersion/static/css/main.e50720e5.chunk.css",
-    "main.js": "/lastVersion/static/js/main.7251260f.chunk.js",
-    "main.js.map": "/lastVersion/static/js/main.7251260f.chunk.js.map",
-    "runtime-main.js": "/lastVersion/static/js/runtime-main.d831a231.js",
-    "runtime-main.js.map": "/lastVersion/static/js/runtime-main.d831a231.js.map",
-    "static/js/2.6d64e410.chunk.js": "/lastVersion/static/js/2.6d64e410.chunk.js",
-    "static/js/2.6d64e410.chunk.js.map": "/lastVersion/static/js/2.6d64e410.chunk.js.map",
-    "static/js/3.32d93671.chunk.js": "/lastVersion/static/js/3.32d93671.chunk.js",
-    "static/js/3.32d93671.chunk.js.map": "/lastVersion/static/js/3.32d93671.chunk.js.map",
+    "main.js": "/lastVersion/static/js/main.5efc4083.chunk.js",
+    "main.js.map": "/lastVersion/static/js/main.5efc4083.chunk.js.map",
+    "runtime-main.js": "/lastVersion/static/js/runtime-main.a4ba2167.js",
+    "runtime-main.js.map": "/lastVersion/static/js/runtime-main.a4ba2167.js.map",
+    "static/js/2.5fdb3903.chunk.js": "/lastVersion/static/js/2.5fdb3903.chunk.js",
+    "static/js/2.5fdb3903.chunk.js.map": "/lastVersion/static/js/2.5fdb3903.chunk.js.map",
+    "static/js/3.3ba04411.chunk.js": "/lastVersion/static/js/3.3ba04411.chunk.js",
+    "static/js/3.3ba04411.chunk.js.map": "/lastVersion/static/js/3.3ba04411.chunk.js.map",
     "index.html": "/lastVersion/index.html",
     "static/css/main.e50720e5.chunk.css.map": "/lastVersion/static/css/main.e50720e5.chunk.css.map",
-    "static/js/2.6d64e410.chunk.js.LICENSE.txt": "/lastVersion/static/js/2.6d64e410.chunk.js.LICENSE.txt"
+    "static/js/2.5fdb3903.chunk.js.LICENSE.txt": "/lastVersion/static/js/2.5fdb3903.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d831a231.js",
-    "static/js/2.6d64e410.chunk.js",
+    "static/js/runtime-main.a4ba2167.js",
+    "static/js/2.5fdb3903.chunk.js",
     "static/css/main.e50720e5.chunk.css",
-    "static/js/main.7251260f.chunk.js"
+    "static/js/main.5efc4083.chunk.js"
   ]
 }
