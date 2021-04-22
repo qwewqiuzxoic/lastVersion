@@ -1,0 +1,122 @@
+[
+    {
+        "num": 1,
+        "Question": "이 험한 세상 함께 헤쳐나갈<br />내 친구의 범위는?",
+        "answer_1": "백만 대군!<br />친구는 많을수록 든든하다",
+        "answer_2": "소수 정예!<br />순도 100%의 관계만 남긴다",
+        "value_1": "X",
+        "value_2": "X",
+        "image_1": "person4",
+        "image_2": "person3"
+    },
+    {
+        "num": 2,
+        "Question": "친구가 주말에 뭐 하냐고 물었다",
+        "answer_1": "친구랑 성수에서 점약 있어<br />(스케줄 한 번 더 체크)",
+        "answer_2": "어…? 친구 만날걸?<br />(약속은 있어도 계획은 없다)",
+        "value_1": "J",
+        "value_2": "P",
+        "image_1": "person2",
+        "image_2": "person7"
+    },
+    {
+        "num": 3,
+        "Question": "모임에서 어색한 친구와<br />단둘이 남게 됐다",
+        "answer_1": "갑자기 버퍼링이 온다 @.@<br />먼저 말을 걸어준다면 고맙",
+        "answer_2": "오디오 비면 질식할 것 같아...<br />아무 말 잔치라도 벌여본다",
+        "value_1": "I",
+        "value_2": "E",
+        "image_1": "person5",
+        "image_2": "person4"
+    },
+    {
+        "num": 4,
+        "Question": "친구에게 잘못을 고백하고<br />빌러 가는 길이다 ",
+        "answer_1": "일단 만나서 분위기에 맞춰 사과한다",
+        "answer_2": "무슨 말로 사과할지 정리를 다 해놨다",
+        "value_1": "P",
+        "value_2": "J",
+        "image_1": "person6",
+        "image_2": "person2"
+    },
+    {
+        "num": 5,
+        "Question": "딴 생각 하느라<br />친구의 이야기를 못 들었다",
+        "answer_1": "\"미안, 못 들었어 다시 말해봐\"<br />솔직하게 다시 묻는다",
+        "answer_2": "일단 공감한 척!<br />자연스럽게 대화를 이어간다",
+        "value_1": "T",
+        "value_2": "F",
+        "image_1": "person7",
+        "image_2": "person8"
+    },
+    {
+        "num": 6,
+        "Question": "모임에서 누군가<br />내 흑역사를 말하고 있다",
+        "answer_1": "\"ㅋㅋㅋ 그때 대박이었어!\"<br />같이 웃으며 즐긴다 (관심 좋아😁)",
+        "answer_2": "주목공포증😭<br />그냥 여기서 사라지고 싶다",
+        "value_1": "E",
+        "value_2": "I",
+        "image_1": "person4",
+        "image_2": "person5"
+    },
+    {
+        "num": 7,
+        "Question": "모임에서 한바탕 놀고 오는 길,<br />문득 이런 생각이 든다",
+        "answer_1": "아 그 말은 하지 말았어야 했어…<br />(너무 떠들었어)",
+        "answer_2": "아 그 말을 했어야 하는데...<br />(또 병풍이었어)",
+        "value_1": "E",
+        "value_2": "I",
+        "image_1": "person2",
+        "image_2": "person1"
+    },
+    {
+        "num": 8,
+        "Question": "절친 두 명이 싸우는데 내가 끼어 있다",
+        "answer_1": "토닥토닥!<br />양쪽을 달래서 억지 악수라도 시킨다",
+        "answer_2": "시시비비!<br />누가 잘못했어?! 냉정하게 따져준다",
+        "value_1": "F",
+        "value_2": "T",
+        "image_1": "person8",
+        "image_2": "person5"
+    },
+    {
+        "num": 9,
+        "Question": "친구와 내가 같은 사람을 좋아하게 됐다…<br />비극의 서막.",
+        "answer_1": "막장은 안돼! 일단 내 감정을 누르고<br />갈등을 피한다",
+        "answer_2": "솔직 당당! 내 감정을 말하고<br />친구 마음도 물어본다",
+        "value_1": "F",
+        "value_2": "T",
+        "image_1": "person2",
+        "image_2": "person7"
+    },
+    {
+        "num": 10,
+        "Question": "우정과 썸 사이,<br />선을 넘는 남사친(여사친)이 있다",
+        "answer_1": "애매한 건 질색!<br />내가 나서서 선을 쫙 그어준다",
+        "answer_2": "설마~<br />직진 고백을 하기 전까지는 지켜본다",
+        "value_1": "X",
+        "value_2": "X",
+        "image_1": "person7",
+        "image_2": "person1"
+    },
+    {
+        "num": 11,
+        "Question": "여행지에서 친구와 먹방 로드를 짜본다",
+        "answer_1": "맛집 GPS 가동! 검증된 리뷰와<br />동선으로 맛집 로드를 짠다",
+        "answer_2": "무계획 상팔자! 돌아다니다<br />맛있어 보이면 그냥 들어간다",
+        "value_1": "J",
+        "value_2": "P",
+        "image_1": "person4",
+        "image_2": "person6"
+    },
+    {
+        "num": 12,
+        "Question": "나의 친구 이상형은?",
+        "answer_1": "너무 달라서 만나면 스펙터클!<br />나와 정반대인 친구",
+        "answer_2": "No 자극, 무해한 힐링 바이브!<br />나와 비슷한 친구",
+        "value_1": "X",
+        "value_2": "X",
+        "image_1": "person9",
+        "image_2": "person10"
+    }
+]
